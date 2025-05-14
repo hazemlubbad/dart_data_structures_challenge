@@ -1,5 +1,3 @@
-// bin/stack_challenges.dart
-
 import 'package:dart_data_structures_challenge/stacks.dart';
 
 /// Challenge 1: Reverse a List using Stack

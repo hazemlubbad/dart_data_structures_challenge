@@ -1,5 +1,3 @@
-// bin/linked_list_challenges.dart
-
 import 'package:dart_data_structures_challenge/linked_lists.dart';
 
 /// Challenge 1: Print Linked List in Reverse Order
